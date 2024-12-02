@@ -18,3 +18,4 @@ list_two = [93577, 24099, 70524, 49933, 56887, 47645, 75116, 84992, 60175, 14847
 
 result = calculate_total_distance(list_one, list_two)
 print("Total Distance:", result)
+# Total Distance: 1320851
