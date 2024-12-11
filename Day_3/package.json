@@ -4,5 +4,10 @@
   },
   "dependencies": {
     "typescript": "^5.7.2"
-  }
+  },
+  "scripts": {
+  "build": "tsc",
+  "start": "node dist/Memory.js"
+}
+
 }
